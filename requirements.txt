@@ -1,0 +1,10 @@
+matplotlib
+numpy
+opencv_python
+pandas
+Pillow
+progressbar33
+protobuf
+psutil
+tensorflow
+tensorflow_hub
